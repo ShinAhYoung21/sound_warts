@@ -2,12 +2,24 @@ body, html {
     height: 100%;
 }
 body {
-    background-image: url("https://images.unsplash.com/photo-1518727713078-80d11060492e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1546&q=80");
     height: 100%;
     background-repeat: no-repeat;
     background-size: 100%;
 }
 
-h1, article{
+h1{
     text-align: center;
+    color:#f7f1e3;
+    text-shadow: black 1px 0 10px;
 }
+
+ul{
+    text-align: center;
+    color:#f7f1e3;
+    text-shadow: black 1px 0 10px;
+    background-color:whitesmoke;
+}
+li{
+    list-style-type: none;
+}
+
