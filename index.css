@@ -27,6 +27,10 @@ ul{
     color:#f7f1e3;
     text-shadow: black 1px 0 10px;
     background-color:whitesmoke;
+    width: 10em;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
 }
 li{
     list-style-type: none;
